@@ -1,3 +1,5 @@
+alert("Bem-vindo ao Restaurante Universitário");
+
 var qnt_entrevistados = 0;
 var qtd_menor_10 = 0;
 var qtd_entre_10_15 = 0;
