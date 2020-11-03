@@ -1,3 +1,4 @@
+
 function programa() {
 var combustivel = prompt("Digite 1 para Álcool e 2 para Gasolina");
 var alcool = 3.16;
